@@ -1,47 +1,96 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Jeremy's Coffee Shop",
+  "tagline": "Glendale's neighborhood coffee shop",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Real coffee. Real people.",
+    "subheading": "Honolulu Avenue's neighborhood roast — pulled fresh, served warm, since the morning crowd started showing up.",
+    "ctaText": "Visit us",
+    "ctaLink": "tel:8182487772",
+    "image": "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=1600&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A Glendale morning ritual.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "We started Jeremy's because Honolulu Avenue needed a place where the coffee was real, the seats were warm, and the regulars knew your name.",
+      "Single-origin beans, hand-poured drip, espresso pulled the slow way. Pastries baked fresh every morning. A community two doors down from where the day starts."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Single-origin espresso",
+      "description": "Pulled from beans we taste-tested every batch — bright, full, ridiculously smooth.",
+      "price": "from $3.75"
+    },
+    {
+      "title": "Hand-poured drip",
+      "description": "Brewed slow. The way coffee was meant to taste — patient, balanced, unmistakable.",
+      "price": "from $3.25"
+    },
+    {
+      "title": "Fresh-baked pastries",
+      "description": "Croissants, scones, and breakfast bites. The kind that disappear before lunch.",
+      "price": "from $3.50"
+    },
+    {
+      "title": "Iced & cold brew",
+      "description": "Slow-steeped 18 hours. Smooth enough you'll forget it's iced.",
+      "price": "from $4.50"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah K.",
+      "text": "Best coffee in Glendale. Period. The baristas remember your order, the croissants are always fresh, and the vibe is exactly what a neighborhood spot should feel like.",
+      "rating": 5
+    },
+    {
+      "name": "Mark T.",
+      "text": "Tucked-away gem on Honolulu Ave. The kind of latte you'd drive across town for. The almond croissant is perfection.",
+      "rating": 5
+    },
+    {
+      "name": "Anna L.",
+      "text": "Honolulu Ave's worst-kept secret. Cozy, warm, and the espresso is on point every single visit.",
+      "rating": 5
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 248-7772",
+    "email": "hello@jeremyscoffeeshop.com",
+    "address": "3009 Honolulu Ave, Glendale, California",
+    "mapEmbedQuery": "Jeremy's Coffee Shop 3009 Honolulu Ave Glendale CA",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "6:00 AM – 6:00 PM",
+      "Tuesday": "6:00 AM – 6:00 PM",
+      "Wednesday": "6:00 AM – 6:00 PM",
+      "Thursday": "6:00 AM – 6:00 PM",
+      "Friday": "6:00 AM – 7:00 PM",
+      "Saturday": "7:00 AM – 7:00 PM",
+      "Sunday": "7:00 AM – 4:00 PM"
+    }
+  },
+  "social": {},
+  "gallery": [
+    "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=1600&q=80&auto=format&fit=crop"
+  ],
+  "rating": 4.6,
+  "reviewCount": 548,
+  "theme": {
+    "primaryColor": "#6B7F60",
+    "accentColor": "#D4A574",
+    "fontFamily": "Amatic_SC + Cabin"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
-  },
-  "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "title": "Jeremy's Coffee Shop — Glendale, CA · Honolulu Ave",
+    "description": "Glendale's neighborhood coffee shop on Honolulu Ave. Single-origin espresso, hand-poured drip, fresh-baked pastries. 4.6★ · 548 reviews.",
+    "keywords": [
+      "coffee glendale",
+      "coffee shop honolulu ave",
+      "espresso glendale",
+      "best coffee glendale ca"
+    ]
   }
 }
